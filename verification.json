@@ -1,0 +1,44 @@
+{
+  "checkedAt": "2026-11-07T20:39:22.757Z",
+  "tool": "built-in image_gen",
+  "syntheticSource": true,
+  "outputWidth": 1254,
+  "outputHeight": 1254,
+  "outputPngColourType": 6,
+  "visualQa": "Browser on white/dark backgrounds; approximate reconstruction, not pixel-identical.",
+  "humanReviewer": false,
+  "psdDelivered": false,
+  "printReadyClaim": false,
+  "files": [
+    {
+      "file": "source-mockup.png",
+      "bytes": 2750348,
+      "sha256": "36ecf9d0254370413c57b6679f4eb83963ea410f5c1a848a0a1051bc91d30c70"
+    },
+    {
+      "file": "reconstructed-art.png",
+      "bytes": 2604860,
+      "sha256": "8cdad9e6c7b7d0b8829202365df9abcfd0fd0e89678293509e401d3b28864b78"
+    },
+    {
+      "file": "browser-qa.png",
+      "bytes": 230021,
+      "sha256": "0548b25f57f94dd909560987b37984ed2a45ace9984f225f20b815fc868c4ea1"
+    },
+    {
+      "file": "prompts.json",
+      "bytes": 4248,
+      "sha256": "abaafaae63d911970bd9b69f93854b5cc807b45258fba314ff1cdd5fa74a7d8d"
+    },
+    {
+      "file": "README.md",
+      "bytes": 2471,
+      "sha256": "b66750dea6ef1c5f8a620db94117233bd3396336f574ce0026a510d87d39275d"
+    },
+    {
+      "file": ".gitattributes",
+      "bytes": 32,
+      "sha256": "23302dd90b8bb74b44d365fafef8df20f809b61cb347023951ecf60a88a29651"
+    }
+  ]
+}
